@@ -1,4 +1,4 @@
-# JAYLEN OZİ V14 PUBLİC BOTS
+# JAYLEN OZİ V13 PUBLİC BOTS
 NOT: Botları kullanmaya başlamadan önce A dan Z ye tüm kurulumları bitirip botu tekrardan başlatmalısınız, setup bitip botları tekrar başlatana kadar terminalde hata vermesi normaldir.
 
 
